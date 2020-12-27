@@ -1,2 +1,5 @@
-# ls_rb100
-Launch School Programming &amp; Back-end Prep - RB100
+# Launch School
+### RB100 Programming & Back-end Prep
+
+* Exercises
+* Intro to Ruby Programming Book Exercises
