@@ -12,4 +12,5 @@ contacts["Sally Johnson"][:address] = contact_data[1][1]
 contacts["Sally Johnson"][:phone] = contact_data[1][2]
 
 
-p contacts
+p contacts['Joe Smith'][:email]
+p contacts['Sally Johnson'][:phone]
